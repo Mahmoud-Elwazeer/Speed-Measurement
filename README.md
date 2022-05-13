@@ -2,8 +2,8 @@
 
 **Description:
 
-    HC-SR 04 Ultrasonic sensor is used to measure distance and the speed of movement of any object that 
-    is positive when the object move away from sensor and is negative when close from sensor. 
+    HC-SR 04 Ultrasonic sensor is used to measure distance and measure speed by taking two distance measurement in a short time (1 second) ,
+    so we can get speed from relation v = d / t 
     displaying distance and speed on LCD
     
 **Applications:
