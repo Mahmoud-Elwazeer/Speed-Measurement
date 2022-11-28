@@ -1,12 +1,12 @@
-**# Speed-Measurement
+# Speed-Measurement
 
-**Description:
+# Description:
 
     HC-SR 04 Ultrasonic sensor is used to measure distance and measure speed by taking two 
     distance measurement in a short time (1 second) , so we can get speed from relation v = d / t 
     displaying distance and speed on LCD
     
-**Applications:
+# Applications:
 
     Radar that can measure speed of vehicles
     
